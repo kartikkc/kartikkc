@@ -6,5 +6,5 @@
 
 Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 <hr>
-## Connect With me 
-<img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40px"/>
+
+## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40px"/>
