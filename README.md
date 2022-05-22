@@ -14,7 +14,6 @@ Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" height = "40px">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height = "40px">
 <img src = "https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" height ="40px">
-<hr>
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
 [<img src = "https://c.tenor.com/x0C6aBxEdOEAAAAi/instagram-sign-on-instagram.gif" height="60px">](https://www.instagram.com/jayden_397/)
