@@ -6,7 +6,8 @@
 - 📫 How to reach me: kartikkc397@outlook.com
 
 Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
-[<img src = "https://cdn-icons-png.flaticon.com/512/136/136528.png" height = "40px"/>]
+<br>
+<img src = "https://cdn-icons-png.flaticon.com/512/136/136528.png" height = "40px"/>
 <hr>
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
