@@ -11,6 +11,7 @@ Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 <img src = "https://cdn-icons-png.flaticon.com/512/136/136528.png" height = "40px"/>
 <img src = "https://i.pinimg.com/originals/7d/4f/e5/7d4fe56a906707466de4e066e8269719.png" height ="40px"/>
 <img src = "https://cdn-icons-png.flaticon.com/512/136/136530.png" height ="40px"/>
+<img src = "https://mpng.subpng.com/20180504/htq/kisspng-python-installation-pip-appcelerator-titanium-flas-5aec65df1f14b3.6643254115254420151273.jpg" height = "40px">
 <hr>
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
