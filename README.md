@@ -7,6 +7,7 @@
 
 Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 <br>
+<br>
 <img src = "https://cdn-icons-png.flaticon.com/512/136/136528.png" height = "40px"/>
 <hr>
 
