@@ -1,6 +1,7 @@
  <img src="https://github.com/kartikkc/kartikkc/blob/main/Kartik%20Singh.png?raw=true"/>
  
 <h1 align="center"> Hey!! I'm Kartik Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 ### About Me
 - 📖 I'm currently Studying Computer Science at University School of Inforation, Communication and Technology
 - 🌱 I’m currently Explporing UI/UX
