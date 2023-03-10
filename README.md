@@ -5,16 +5,9 @@
 - 💬 Ask me about Cybersecurity and ethical hacking
 - 📫 How to reach me: kartikkc397@outlook.com
 
-Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
+##Tech stack 
 <br>
 <br>
-<img src = "https://cdn-icons-png.flaticon.com/512/136/136528.png" height = "40px"/>
-<img src = "https://i.pinimg.com/originals/7d/4f/e5/7d4fe56a906707466de4e066e8269719.png" height ="40px"/>
-<img src = "https://cdn-icons-png.flaticon.com/512/136/136530.png" height ="40px"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" height = "40px">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height = "40px">
-<img src = "https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" height ="40px">
-
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
