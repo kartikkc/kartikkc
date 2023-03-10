@@ -6,8 +6,9 @@
 - 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
 - 📫 How to reach me: kartikkc397@outlook.com
-
+<p align="center">
 ## Tech stack 
+ </p>
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
