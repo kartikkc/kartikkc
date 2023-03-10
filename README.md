@@ -1,4 +1,4 @@
-# Kartik Singh👋
+# Hey!! I'm Kartik Singh👋
 
 - 📖 I'm currently Studying at University School of Inforation, Communication and Technology
 - 🌱 I’m currently learning Web Devlopment 
@@ -17,11 +17,6 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-</p>
-<p align="center">
-    <a href="https://github.com/Kanika637/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kanika Gola's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanika637&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
