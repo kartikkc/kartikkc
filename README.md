@@ -1,7 +1,7 @@
 # Hey!! I'm Kartik Singh👋
 
 - 📖 I'm currently Studying at University School of Inforation, Communication and Technology
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
 - 📫 How to reach me: kartikkc397@outlook.com
 
