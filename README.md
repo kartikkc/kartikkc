@@ -1,6 +1,7 @@
  <img src="https://github.com/kartikkc/kartikkc/blob/main/Kartik%20Singh.png?raw=true"/>
  
 ## Hey!! I'm Kartik Singh👋
+### About Me
 - 📖 I'm currently Studying Computer Science at University School of Inforation, Communication and Technology
 - 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
