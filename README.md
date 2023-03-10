@@ -9,7 +9,8 @@
  ## Tech stack
  <p align="center">
    Languages<hr/>
- <br>
+  </p>
+ <p align="center">
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -18,7 +19,6 @@
   </p>
   <p align="center">
      Frontend<hr/>
- <br>
  </p>
  <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -27,7 +27,8 @@
  </p>
  <p align="center">
   Backend<hr/>
- <br>
+  </p>
+ <p align="center">
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -35,7 +36,8 @@
  </p>
  <p align="center">
   Miscellaneous<hr/>
-  <br>
+  </p>
+ <p align="center">
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/256/linux--v1.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/256/ubuntu--v1.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/256/console--v1.png" width="48" height="48"/> </a>
