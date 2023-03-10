@@ -17,6 +17,6 @@ Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
 [<img src = "https://c.tenor.com/x0C6aBxEdOEAAAAi/instagram-sign-on-instagram.gif" height="60px">](https://www.instagram.com/jayden_397/)
-[<img src = "https://icons8.com/icon/436/twitter" height = "50px">](https://twitter.com/kartikkc_397)
+[<img src = "https://icons8.com/icon/436/twitter"/>](https://twitter.com/kartikkc_397)
 [<img src = "https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" height = "55px">](https://www.linkedin.com/in/kartik-singh-68bb8b179/)
 
