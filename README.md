@@ -1,6 +1,6 @@
 # Hey!! I'm Kartik Singh👋
-
-- 📖 I'm currently Studying at University School of Inforation, Communication and Technology
+ <img src="https://github.com/kartikkc/kartikkc/blob/main/Kartik%20Singh.png?raw=true"/>
+- 📖 I'm currently Studying Computer Science at University School of Inforation, Communication and Technology
 - 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
 - 📫 How to reach me: kartikkc397@outlook.com
