@@ -7,7 +7,7 @@
 - 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
 - 📫 How to reach me: kartikkc95@gmail.com
-
+<hr>
 
 <h2 align="center">Languages</h2>
   <p align="center">
