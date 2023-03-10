@@ -5,7 +5,7 @@
 - 💬 Ask me about Cybersecurity and ethical hacking
 - 📫 How to reach me: kartikkc397@outlook.com
 
-##Tech stack 
+## Tech stack 
 <br>
 <br>
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
