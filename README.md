@@ -55,10 +55,11 @@
 
 </div>
 
-## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
-
+<h2 align="center"> Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h2>
+<p align="center">
 <a href = "https://www.linkedin.com/in/kartikkc397/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/kartikkc_397" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kartikkc397/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.github.com/kartikkc/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "mailto:kartikkc95@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
