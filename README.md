@@ -16,6 +16,6 @@ Tech stack : Html/CSS/Javascript/Python/C/Linux/C++
 <img src = "https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" height ="40px">
 
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
-<a href = "https://www.linkedin.com/in/kanika-gola-999968204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/gola_kanika"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/kanika.gola26/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/kartikkc397/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/kartikkc_397"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/kartikkc397/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
