@@ -5,7 +5,7 @@
 - 📖 I'm currently Studying Computer Science at University School of Inforation, Communication and Technology
 - 🌱 I’m currently Explporing UI/UX
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
-- 📫 How to reach me: kartikkc397@outlook.com
+- 📫 How to reach me: kartikkc95@gmail.com
 
 
 <h2 align="center">Languages</h2>
