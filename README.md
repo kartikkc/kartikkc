@@ -43,6 +43,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/256/console--v1.png" width="48" height="48"/> </a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker--v1.png" width="48" height="48"/> </a>
 </p>
+
 ## Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>
 
 <a href = "https://www.linkedin.com/in/kartikkc397/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
