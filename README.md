@@ -41,6 +41,11 @@
     <a style="padding-right:8px;"> <img src="https://img.icons8.com/color/256/console--v1.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker--v1.png" width="48" height="48"/> </a>
  </p>
+ <h2></h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=kartikkc&theme=tokyonight" />
+</p>
 <hr>
 <div style="margin-top:10px" align="center">
 
@@ -54,10 +59,6 @@
 
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
-</div>
-<h2 align="center">Github Stats</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
 </div>
 <h2 align="center"> Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h2>
 <p align="center">
