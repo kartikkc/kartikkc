@@ -55,7 +55,10 @@
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
 </div>
-
+<h2 align="center">Github Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
+</div>
 <h2 align="center"> Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h2>
 <p align="center">
 <a href = "https://www.linkedin.com/in/kartikkc397/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
