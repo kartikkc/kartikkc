@@ -42,7 +42,7 @@
     <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker--v1.png" width="48" height="48"/> </a>
  </p>
  <h2></h2>
-<p align="center" height="45" >
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com/?user=kartikkc&theme=tokyonight" />
 </p>
