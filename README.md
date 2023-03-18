@@ -54,8 +54,11 @@
  <!----Github Stats----->
  
 <p align="center">
+ <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkc&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000"><br>
+ <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
+ <br><br>
 <img src="https://streak-stats.demolab.com/?user=kartikkc&theme=tokyonight" />
  
 </p>
