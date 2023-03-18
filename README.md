@@ -1,5 +1,7 @@
  <img src="https://github.com/kartikkc/kartikkc/blob/main/Kartik%20Singh.png?raw=true"/>
  
+ <!----Intro---->
+ 
 <h1 align="center"> Hey!! I'm Kartik Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ### About Me
@@ -8,6 +10,11 @@
 - 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
 - 📫 How to reach me: kartikkc95@gmail.com
 <hr>
+
+<!---Intro End--->
+
+<!-----Skills---->
+
 
 <h2 align="center">Languages</h2>
   <p align="center">
@@ -42,11 +49,22 @@
     <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker--v1.png" width="48" height="48"/> </a>
  </p>
  <h2></h2>
+ <!-----Skills end------>
+ 
+ <!----Github Stats----->
+ 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kartikkc&show_icons=true&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com/?user=kartikkc&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkc&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000">
+ 
 </p>
 <hr>
+<!------------Github stats End---------->
+
+<!-----------Dino game and Snake-------->
+
+
 <div style="margin-top:10px" align="center">
 
  ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
@@ -60,6 +78,12 @@
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
 </div>
+
+<!-----------Dino game and Snake end-------->
+
+<!-------------Connect with me-------------->
+
+
 <h2 align="center"> Connect With me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h2>
 <p align="center">
 <a href = "https://www.linkedin.com/in/kartikkc397/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -68,3 +92,11 @@
 <a href = "https://www.github.com/kartikkc/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "mailto:kartikkc95@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
+
+<!-------------Connect with me End-------------->
+
+
+<!----------------Profile Views----------------->
+
+[![](https://visitcount.itsvg.in/api?id=kartikkc&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<!--End---->
