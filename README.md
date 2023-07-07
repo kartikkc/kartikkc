@@ -52,8 +52,9 @@
  <!-----Skills end------>
  
  <!----Github Stats----->
- 
 <p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/reulactosh5.png" alt="TryHackMe">
+ <br>
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkc&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000"><br>
  <br>
