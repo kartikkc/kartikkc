@@ -53,7 +53,7 @@
  
  <!----Github Stats----->
 <p align="center">
- <img src="https://tryhackme-chi.vercel.app/" alt="tryhackme">
+ <img src="https://raw.githubusercontent.com/kartikkc/kartikkc/main/reulactosh5.png" alt="tryhackme">
  <br>
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkc&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000"><br>
